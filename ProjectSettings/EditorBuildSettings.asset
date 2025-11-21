@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/Scenes/1 Point/Movable Character.unity
+    guid: 18ffb433d28596946aabefa46a45f6ac
+  - enabled: 1
     path: Assets/Scenes/1 Point/Physics + Material.unity
     guid: 1d9c85311513e0f4980b2eabba2b74bf
   - enabled: 1
@@ -17,6 +20,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3 Point/Repeating Animation.unity
     guid: 7cabc8df42ab8f94686fae08ce19bbb0
+  - enabled: 1
+    path: Assets/Scenes/3 Point/Collecting + UI.unity
+    guid: 27dff58ce3ba2ca40b87b7da634853d3
+  - enabled: 1
+    path: Assets/Scenes/3 Point/Instansiate Object.unity
+    guid: 62e3aed9b76916b4598b2c6f1781346c
+  - enabled: 1
+    path: Assets/Scenes/5 Point/Tilemap.unity
+    guid: 72645698e9d70b74a8133ab7cf70a502
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
